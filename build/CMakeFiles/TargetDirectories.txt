@@ -1,0 +1,4 @@
+/home/dhaval/Documents/Coding/Design Patterns/Creational/Singleton/build/CMakeFiles/edit_cache.dir
+/home/dhaval/Documents/Coding/Design Patterns/Creational/Singleton/build/CMakeFiles/rebuild_cache.dir
+/home/dhaval/Documents/Coding/Design Patterns/Creational/Singleton/build/CMakeFiles/Logger_lib.dir
+/home/dhaval/Documents/Coding/Design Patterns/Creational/Singleton/build/CMakeFiles/Logger.dir

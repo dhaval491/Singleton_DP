@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/BaseSingleton.h
+string
+-
+
+../include/Logger.h
+cstdio
+-
+string
+-
+iostream
+-
+memory
+-
+mutex
+-
+BaseSingleton.h
+../include/BaseSingleton.h
+cstdio
+-
+string
+-
+
+/home/dhaval/Documents/Coding/Design Patterns/Creational/Singleton/lib/logger_lib.cpp
+Logger.h
+/home/dhaval/Documents/Coding/Design Patterns/Creational/Singleton/lib/Logger.h
+Logger.h
+/home/dhaval/Documents/Coding/Design Patterns/Creational/Singleton/lib/Logger.h
+
