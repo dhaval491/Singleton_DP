@@ -1,3 +1,3 @@
 [198.162.1.1] Application has Started
 [198.162.1.1] Attempting to open a connection
-[198.162.1.1] Application is Shutting Down in Branch Test_Branch ...now added to server
+[198.162.1.1] Application is Shutting Down in Branch Test_Branch ...now added from local machine
